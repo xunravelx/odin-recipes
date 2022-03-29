@@ -1,0 +1,37 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    margin: 0px;
+    background-color: white;
+    
+    }
+    
+.tittle h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 30px 20px;
+    margin: 0px;
+}
+
+.tittle img{
+    margin: auto;
+    display: block;
+    border-radius: 15px;
+    
+}
+
+.recetas h1{
+    text-align: center;
+}
+
+.recetas li{
+    text-align: center;
+    list-style: none;
+}
+
+footer{
+    background: cornflowerblue;
+    
+}
